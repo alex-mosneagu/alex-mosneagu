@@ -50,6 +50,18 @@ Technologies I have used in production client and side projects:
 
 ## Featured projects
 
+### [carpat](https://github.com/alex-mosneagu/carpat)
+
+> Romanian form toolkit. [Live docs & demos](https://alex-mosneagu.github.io/carpat/)
+
+A monorepo of validators, formatters and ready-made form components for Romanian data, used across Vue 3, React and Svelte.
+
+- Validators and formatters for **CNP, CUI/CIF, IBAN, phone numbers, postal codes, ID card series** and addresses
+- Bundled Romanian data: 42 counties with plate codes, localities (SIRUTA subset), bank codes
+- Zero-dependency, tree-shakeable core package plus a CLI
+- 7 ready-made components per framework (CNP, CUI, IBAN, Phone, ID card, County and Locality selects) with a shared validation composable/hook
+- Tested with Vitest, documented with a VitePress site, CI and GitHub Pages deploy via GitHub Actions
+
 ### [ActTrace](https://github.com/alex-mosneagu/ActTrace)
 
 > Drop in one script. Understand every frontend interaction.
