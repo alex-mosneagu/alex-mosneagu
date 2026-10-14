@@ -54,7 +54,7 @@ Technologies I have used in production client and side projects:
 
 > Romanian form toolkit. [Live docs & demos](https://alex-mosneagu.github.io/carpat/)
 
-[![npm @carpat/core](https://img.shields.io/npm/v/@carpat/core?label=%40carpat%2Fcore&style=flat-square)](https://www.npmjs.com/package/@carpat/core) [![npm @carpat/vue](https://img.shields.io/npm/v/@carpat/vue?label=%40carpat%2Fvue&style=flat-square)](https://www.npmjs.com/package/@carpat/vue) [![npm downloads](https://img.shields.io/npm/dm/@carpat/core?style=flat-square)](https://www.npmjs.com/package/@carpat/core)
+[![npm @carpat/core](https://img.shields.io/npm/v/@carpat/core?label=%40carpat%2Fcore&style=flat-square)](https://www.npmjs.com/package/@carpat/core) [![npm @carpat/vue](https://img.shields.io/npm/v/@carpat/vue?label=%40carpat%2Fvue&style=flat-square)](https://www.npmjs.com/package/@carpat/vue)
 
 A monorepo of validators, formatters and ready-made form components for Romanian data, used across Vue 3, React and Svelte.
 
