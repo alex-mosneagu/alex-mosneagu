@@ -64,6 +64,18 @@ A monorepo of validators, formatters and ready-made form components for Romanian
 - 7 ready-made components per framework (CNP, CUI, IBAN, Phone, ID card, County and Locality selects) with a shared validation composable/hook
 - Tested with Vitest, documented with a VitePress site, CI and GitHub Pages deploy via GitHub Actions
 
+### [Utilitara](https://utilitara.com)
+
+> Free online PDF tools with no sign-up, no watermarks and no file size limits.
+
+Utilitara is a PDF toolbox for everyday users and professionals, built as a JavaScript stack: a Nuxt 3 and Vue 3 frontend backed by Node.js microservices. Each tool runs as its own Express service behind an API gateway, and files are deleted automatically after processing.
+
+- More than 20 tools: merge, split, compress, rotate, reorder, extract and delete pages, watermark, page numbers, sign, protect, unlock, edit and compare
+- Conversions between PDF and Word, Excel, PowerPoint and images
+- AI-powered PDF summarization and question answering
+- Node.js and Express microservices with RabbitMQ for async task processing, run with Docker Compose and GitHub Actions
+- Vue admin panel for content, users, tool toggles and activity logs, backed by PostgreSQL
+
 ### [ActTrace](https://github.com/alex-mosneagu/ActTrace)
 
 > Drop in one script. Understand every frontend interaction.
